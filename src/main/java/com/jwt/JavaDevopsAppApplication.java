@@ -19,6 +19,6 @@ class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "Java DevOps App Running 🚀";
+        return "Java DevOps App Running successfully🚀";
     }
 }
